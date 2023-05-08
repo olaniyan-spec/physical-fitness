@@ -10,7 +10,7 @@ const Plans = () => {
   return (
     <>
     <Top title="Membership Plans" image={HeaderImage}>
-      adjfkdjgldkgdkgasdgldgjdlgdklgdgkjdgldjgkdgsdkgjdgkjdsgldsgdjgljgkgdg
+      Register with us
     </Top>
     <section className='plans'>
       <div className='container plans-container'>

@@ -10,7 +10,6 @@ const Contact = () => {
   return (
     <>
       <Top title="Get in Touch" image={TopImage}>
-        dsfksdjgkdjgkdjgkldjaglkjkdgjaskdjgdklgjsdkgjsdkgdsgjkgjkjgksdgjskjgksdjk
       </Top>
       <section className='contact'>
         <div className='container contact-container'>

@@ -9,10 +9,7 @@ const About = () => {
   return (
     <>
     <Top title='About us' image={TopImage}>
-      <p> djfhdjfhd;klfdkfjiutskdgkdgjdlasdgljkdsglgdjgksdgjsdlgj
-        dkgdkddkkdfjdkd
-        dfkdjfdkfjdkfjdkfjkfdjfkdkdsldfjdjdfdkjfdkjdfkdfkd
-      </p>
+  
     </Top>
     
     <section className='about-story'>
@@ -22,15 +19,6 @@ const About = () => {
       </div>
       <div className='about-section-content'>
         <h1>Our Story</h1>
-        <p>
-          This is the about page watch out for some nice stories we have for you
-        </p>
-        <p>
-          asdfkdsjkfdjafkldjfkhgjdhgadjgkdgljdgkdjgljldgkdjlgkajdlgdjldjgdljlgkdklg
-        </p>
-        <p>
-          dkdsgkdjgkdjgkleigdkgjksdjgldgkdsglksdjldgkgdlgdgdkjvkngkrhirkgdjgkjgkdlskdj
-        </p>
       </div>
     </div>
     </section>
@@ -39,10 +27,7 @@ const About = () => {
       <div className='about-section-content'>
         <h1>Our Vision</h1>
         <p>
-          This is the about page watch out for some nice stories we have for you
-        </p>
-        <p>
-          asdfkdsjkfdjafkldjfkhgjdhgadjgkdgljdgkdjgljldgkdjlgkajdlgdjldjgdljlgkdklg
+          We are committed to going through with you on your journey of an healthy lifestyle
         </p>
       </div>
       <div className='about-section-image'>
@@ -58,13 +43,8 @@ const About = () => {
       <div className='about-section-content'>
         <h1>Our Mission</h1>
         <p>
-          This is the about page watch out for some nice stories we have for you
-        </p>
-        <p>
-          asdfkdsjkfdjafkldjfkhgjdhgadjgkdgljdgkdjgljldgkdjlgkajdlgdjldjgdljlgkdklg
-        </p>
-        <p>
-          dkdsgkdjgkdjgkleigdkgjksdjgldgkdsglksdjldgkgdlgdgdkjvkngkrhirkgdjgkjgkdlskdj
+          To enhance the quality of life in the communities, we serve through our fitness philosophy facilities and to instill in the lives of people everywhere the value of health and fitness
+
         </p>
       </div>
     </div>

@@ -12,7 +12,7 @@ const Trainers = () => {
   return (
     <>
     <Top title='Our Trainers' image={HeaderImage}>
-      sdlgkdjgkdsjlkdjdklfjdlajgkdjgkdsjgldkjgkdsjgkjd
+      Meet our Humble Trainers
     </Top>
     <section className='trainers'>
       <div className='container trainers-container'>
